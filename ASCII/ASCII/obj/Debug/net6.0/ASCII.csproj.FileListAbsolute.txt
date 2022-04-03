@@ -1,0 +1,15 @@
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.csproj.AssemblyReference.cache
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.AssemblyInfoInputs.cache
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.AssemblyInfo.cs
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.csproj.CoreCompileInputs.cache
+E:\CSHARP\ASCII\ASCII\bin\Debug\net6.0\ASCII.exe
+E:\CSHARP\ASCII\ASCII\bin\Debug\net6.0\ASCII.deps.json
+E:\CSHARP\ASCII\ASCII\bin\Debug\net6.0\ASCII.runtimeconfig.json
+E:\CSHARP\ASCII\ASCII\bin\Debug\net6.0\ASCII.dll
+E:\CSHARP\ASCII\ASCII\bin\Debug\net6.0\ref\ASCII.dll
+E:\CSHARP\ASCII\ASCII\bin\Debug\net6.0\ASCII.pdb
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.dll
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ref\ASCII.dll
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.pdb
+E:\CSHARP\ASCII\ASCII\obj\Debug\net6.0\ASCII.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\CSHARP\ArrLength\ArrLength\bin\Debug\net6.0\ArrLength.exe
+E:\CSHARP\ArrLength\ArrLength\bin\Debug\net6.0\ArrLength.deps.json
+E:\CSHARP\ArrLength\ArrLength\bin\Debug\net6.0\ArrLength.runtimeconfig.json
+E:\CSHARP\ArrLength\ArrLength\bin\Debug\net6.0\ArrLength.dll
+E:\CSHARP\ArrLength\ArrLength\bin\Debug\net6.0\ref\ArrLength.dll
+E:\CSHARP\ArrLength\ArrLength\bin\Debug\net6.0\ArrLength.pdb
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ArrLength.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ArrLength.AssemblyInfoInputs.cache
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ArrLength.AssemblyInfo.cs
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ArrLength.csproj.CoreCompileInputs.cache
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ArrLength.dll
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ref\ArrLength.dll
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ArrLength.pdb
+E:\CSHARP\ArrLength\ArrLength\obj\Debug\net6.0\ArrLength.genruntimeconfig.cache

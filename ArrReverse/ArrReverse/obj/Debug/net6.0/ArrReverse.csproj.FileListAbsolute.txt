@@ -1,0 +1,14 @@
+E:\CSHARP\ArrReverse\ArrReverse\bin\Debug\net6.0\ArrReverse.exe
+E:\CSHARP\ArrReverse\ArrReverse\bin\Debug\net6.0\ArrReverse.deps.json
+E:\CSHARP\ArrReverse\ArrReverse\bin\Debug\net6.0\ArrReverse.runtimeconfig.json
+E:\CSHARP\ArrReverse\ArrReverse\bin\Debug\net6.0\ArrReverse.dll
+E:\CSHARP\ArrReverse\ArrReverse\bin\Debug\net6.0\ref\ArrReverse.dll
+E:\CSHARP\ArrReverse\ArrReverse\bin\Debug\net6.0\ArrReverse.pdb
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ArrReverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ArrReverse.AssemblyInfoInputs.cache
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ArrReverse.AssemblyInfo.cs
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ArrReverse.csproj.CoreCompileInputs.cache
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ArrReverse.dll
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ref\ArrReverse.dll
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ArrReverse.pdb
+E:\CSHARP\ArrReverse\ArrReverse\obj\Debug\net6.0\ArrReverse.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\CSHARP\ArrSum\ArrSum\bin\Debug\net6.0\ArrSum.exe
+E:\CSHARP\ArrSum\ArrSum\bin\Debug\net6.0\ArrSum.deps.json
+E:\CSHARP\ArrSum\ArrSum\bin\Debug\net6.0\ArrSum.runtimeconfig.json
+E:\CSHARP\ArrSum\ArrSum\bin\Debug\net6.0\ArrSum.dll
+E:\CSHARP\ArrSum\ArrSum\bin\Debug\net6.0\ref\ArrSum.dll
+E:\CSHARP\ArrSum\ArrSum\bin\Debug\net6.0\ArrSum.pdb
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ArrSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ArrSum.AssemblyInfoInputs.cache
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ArrSum.AssemblyInfo.cs
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ArrSum.csproj.CoreCompileInputs.cache
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ArrSum.dll
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ref\ArrSum.dll
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ArrSum.pdb
+E:\CSHARP\ArrSum\ArrSum\obj\Debug\net6.0\ArrSum.genruntimeconfig.cache
